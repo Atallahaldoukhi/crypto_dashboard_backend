@@ -1,0 +1,15 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.5 # Optional, but good for schema changes
+Flask-Cors==4.0.0
+python-dotenv==1.0.0 # For managing environment variables
+psycopg2-binary # If using PostgreSQL
+# SQLAlchemy==2.0.23 # Usually comes with Flask-SQLAlchemy
+
+
+requests
+pandas
+matplotlib
+markdown2
+WeasyPrint
+
